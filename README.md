@@ -1,2 +1,4 @@
 # bean
-豆瓣
+豆瓣-api
+
+#### readme.md
