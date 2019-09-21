@@ -8,15 +8,9 @@
 
 #### readme.md
 
-<<<<<<< HEAD
-- l
-- li
-- lis
-=======
 - one
 - two
 - three
->>>>>>> rong
 - list
 - listo
 - liston
